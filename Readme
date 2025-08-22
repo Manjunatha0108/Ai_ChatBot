@@ -1,1 +1,28 @@
 
+🤖 Gemini AI Chatbot
+
+A simple AI Chatbot web app built with HTML, CSS, JavaScript that integrates Google Gemini API. Supports both text and image inputs for interactive conversations.
+
+🚀 Features
+
+💬 Chat with Gemini AI using text messages.
+
+🖼️ Upload images and ask the AI to analyze them.
+
+📱 Responsive design with modern UI.
+
+⚡ Real-time chat experience with typing/loading animation.
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+AI: Google Gemini API (gemini-1.5-flash)
+
+📌 How It Works
+
+Enter your message or upload an image.
+
+The chatbot sends the content to Gemini API.
+
+AI response is displayed in the chat interface.
